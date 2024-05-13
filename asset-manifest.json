@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/React-Movie/static/js/main.389c5116.js",
-    "index.html": "/React-Movie/index.html",
-    "main.389c5116.js.map": "/React-Movie/static/js/main.389c5116.js.map"
+    "main.js": "/react-movie/static/js/main.389c5116.js",
+    "index.html": "/react-movie/index.html",
+    "main.389c5116.js.map": "/react-movie/static/js/main.389c5116.js.map"
   },
   "entrypoints": [
     "static/js/main.389c5116.js"
