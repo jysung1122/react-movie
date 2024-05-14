@@ -7,7 +7,6 @@
 - 무료 영화 API를 다운로드 순으로 정렬하여 가지고 와 출력
 - 영화 제목을 누를 시 해당 영화의 자세한 내용 출력
 - 개발 과정은 리액트 공부 사이트 참조
-- CSS 스타일 적용 X
 
 ### React에서 Bootstrap 사용하기
 1. Bootstrap CSS 및 JavaScript 파일 설치
