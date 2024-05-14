@@ -9,7 +9,7 @@
 - 개발 과정은 리액트 공부 사이트 참조
 - CSS 스타일 적용 X
 
-## React에서 Bootstrap 사용하기
+### React에서 Bootstrap 사용하기
 1. Bootstrap CSS 및 JavaScript 파일 설치
 ```
 npm install react-bootstrap bootstrap
