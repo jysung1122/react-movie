@@ -1,0 +1,18 @@
+.card {
+  border-radius: 10px; /* 모서리 둥글게 */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* 그림자 효과 */
+  transition: transform 0.3s; /* 애니메이션 효과 */
+}
+
+.card:hover {
+  transform: scale(1.05); /* 마우스 오버 시 약간 확대 */
+}
+
+.cardTitle {
+  font-weight: bold; /* 제목 글씨체 굵게 */
+  color: #333; /* 제목 색상 */
+}
+
+.cardText {
+  color: #666; /* 장르 텍스트 색상 */
+}
