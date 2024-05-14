@@ -42,4 +42,4 @@ function Home() {
 }
 ```
 
-- Bootstrap 공식 문서(https://react-bootstrap.github.io/)를 참고하여 더 자세한 사용법을 확인할 수 있음
+- Bootstrap 공식 문서(https://react-bootstrap.github.io/) 를 참고하여 더 자세한 사용법을 확인할 수 있음
